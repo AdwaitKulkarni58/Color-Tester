@@ -1,0 +1,34 @@
+body{
+    background-color: cornsilk;
+}
+.header{
+    text-align: center;
+    font-size: 3rem;
+    font-family: cursive;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: mediumturquoise;
+    color: black;
+}
+.btn{
+    color: black;
+    font-size: 2rem;
+    border-style: ridge;
+    border-color: black;
+    margin: 20px;
+}
+.footer{
+    text-align: center;
+    font-size: 3rem;
+    font-family: cursive;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: mediumturquoise;
+    color: black;
+}
+.copyright{
+    text-align: center;
+    background-color: mediumturquoise;
+    padding-bottom: 10px;
+    color: floralwhite;
+}
